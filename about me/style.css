@@ -1,0 +1,28 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  text-align: justify;
+}
+h1,h2,h3 {
+  color: #00B0FF;
+}
+h1 {
+  font-size: 30px;
+  padding: 10px 2px;
+  text-shadow: 3px 3px 1px yellow;
+  text-align: center;
+  border: 1px solid black;  
+  letter-spacing: 2px;
+  font-family: Lato, sans-serif;
+}
+p,ol {
+  font-family: Lato, sans-serif;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 2px;
+}
+li {
+  list-style-type: disc;
+}
